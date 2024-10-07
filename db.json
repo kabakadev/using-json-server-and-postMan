@@ -14,6 +14,27 @@
       "id": "f5cc",
       "title": "Third article",
       "content": "A new example!"
+    },
+    {
+      "id": "6070",
+      "name": "independent citizen",
+      "files": "classified",
+      "operation": "black hawk ops"
+    },
+    {
+      "id": "3ed5",
+      "callOfDuty": [
+        {
+          "name": "ghost",
+          "skills": "stealth",
+          "age": 30
+        },
+        {
+          "name": "price",
+          "skill": "captain, leader",
+          "age": 45
+        }
+      ]
     }
   ]
 }
